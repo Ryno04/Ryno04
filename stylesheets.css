@@ -1,0 +1,51 @@
+.card-container {
+    display:block;
+    margin-left: 34%;
+    margin-right: 34%;
+    align-items: center;
+    justify-self: center;
+    text-align: center;
+    margin-top: 8%;
+    background-color: white;
+    padding-top: 1%;
+    border-radius: 3%;
+
+    
+}
+
+.hero-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    
+}
+
+.body {
+    background-color: white;
+    
+}
+
+img {
+    border-radius: 2%;
+}
+
+.sub-text {
+    color: grey;
+    background-color: white;
+    border-radius: 30%;
+    padding-bottom: 2%;
+
+}
+
+* {
+    background-color: lightblue;
+}
+
+.main-text {
+    background-color: white;
+}
+
+.attribution {
+    padding-top: 2%;
+}
